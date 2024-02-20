@@ -1,5 +1,5 @@
 # just_some_c_code
 
-cellular automata for a game of pokemons
+Cellular automata for a game of Pokemons.
 
-codigo del tp1 de paradigmas de programacion, "batalla de pokemones"
+(Codigo del TP1 de Paradigmas de Programacion, "batalla de pokemones") 
